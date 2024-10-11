@@ -11,5 +11,17 @@
 
 ![Imagen de WhatsApp 2024-10-11 a las 15 08 55_fd9e4361](https://github.com/user-attachments/assets/b868388a-e48b-4288-b582-778d1d2ad263)
 
+# Trabajo Jafet
+
+![image](https://github.com/user-attachments/assets/be32ea75-5a64-4deb-9761-b2690878f94f) 
+
+![image](https://github.com/user-attachments/assets/9ae39265-08ac-4988-bfdc-db722da0edfb)
+
+![image](https://github.com/user-attachments/assets/cd23b887-8005-4926-aae8-77928676a4f9)
+
+![image](https://github.com/user-attachments/assets/04888373-c775-495d-8a01-9f38931dbff5)
+
+
+
 
 
