@@ -196,7 +196,7 @@ public class JavaLook {
         }
     }
 
-    // Métodos de búsqueda, login y espacio
+
     private EmailAccount buscar(String email) {
         for (EmailAccount cuenta : emails) {
             if (cuenta != null && cuenta.getDireccionEmail().equalsIgnoreCase(email)) {
